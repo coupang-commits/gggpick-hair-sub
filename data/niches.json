@@ -1,22 +1,22 @@
 {
     "domain": "hair.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "샴푸 및 린스",
+        "헤어 에센스",
+        "헤어 스타일링"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang hair items."
+        "샴푸 및 린스": {
+            "topic": "Hair loss shampoos, hair treatments, conditioners.",
+            "role": "Hair care expert."
         },
-        "수유/이유식": {
-            "topic": "hair bottle sterilizers, hair food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "헤어 에센스": {
+            "topic": "Hair oils, hair serums, scalp tonics.",
+            "role": "Hair nutrition reviewer."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "헤어 스타일링": {
+            "topic": "Curling irons, hair dryers, hair wax, spray.",
+            "role": "Hair styling curator."
         }
     }
 }
