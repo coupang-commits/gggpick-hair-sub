@@ -1,5 +1,5 @@
 ---
-title: "데일리 스타일링을 위한 美容 도구- CURLING IRON, HAIR DRYER, HAIR WAX, SPRAY"
+title: "데일리 스타일링을 위한  도구- CURLING IRON, HAIR DRYER, HAIR WAX, SPRAY"
 date: 2026-06-10T18:16:27.941+09:00
 slug: "데일리-스타일링을-위한-도구-curling-iron-hair-dryer-hair-wax-spray"
 description: "데일리 스타일링을 위한 美容 도구는 다양한 종류가 있습니다. CURLING IRON, HAIR DRYER, HAIR WAX, SPRAY 등이 있습니다."
